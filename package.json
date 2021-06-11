@@ -1,6 +1,6 @@
 {
-  "homepage": "https://resumecreator.github.io/cvbuilder",
-  "name": "cv-creator",
+  "homepage": "https://github.com/SebastianVelo/resume-builder-fe",
+  "name": "resume-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

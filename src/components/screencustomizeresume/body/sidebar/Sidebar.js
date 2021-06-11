@@ -78,7 +78,7 @@ function DownloaSection(props) {
       <LinkDownloadPDF {...props} />
       <Modal
         id="download"
-        title="¡Gracias por usar cvbuilder!"
+        title="¡Gracias por usar Resume Builder!"
         body="Si te gustó, por favor compartilo. :)"
         buttonLabel="Aceptar"
       />
