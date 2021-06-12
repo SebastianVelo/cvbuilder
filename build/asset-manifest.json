@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SebastianVelo/resume-builder-fe/static/css/main.a3a8bc6a.chunk.css",
+    "main.js": "/SebastianVelo/resume-builder-fe/static/js/main.58c4f37a.chunk.js",
+    "main.js.map": "/SebastianVelo/resume-builder-fe/static/js/main.58c4f37a.chunk.js.map",
+    "runtime-main.js": "/SebastianVelo/resume-builder-fe/static/js/runtime-main.c26b75f2.js",
+    "runtime-main.js.map": "/SebastianVelo/resume-builder-fe/static/js/runtime-main.c26b75f2.js.map",
+    "static/js/2.a140b96b.chunk.js": "/SebastianVelo/resume-builder-fe/static/js/2.a140b96b.chunk.js",
+    "static/js/2.a140b96b.chunk.js.map": "/SebastianVelo/resume-builder-fe/static/js/2.a140b96b.chunk.js.map",
+    "index.html": "/SebastianVelo/resume-builder-fe/index.html",
+    "precache-manifest.3ad8aa6e9cbd6f31429103522f9a6296.js": "/SebastianVelo/resume-builder-fe/precache-manifest.3ad8aa6e9cbd6f31429103522f9a6296.js",
+    "service-worker.js": "/SebastianVelo/resume-builder-fe/service-worker.js",
+    "static/css/main.a3a8bc6a.chunk.css.map": "/SebastianVelo/resume-builder-fe/static/css/main.a3a8bc6a.chunk.css.map",
+    "static/js/2.a140b96b.chunk.js.LICENSE.txt": "/SebastianVelo/resume-builder-fe/static/js/2.a140b96b.chunk.js.LICENSE.txt",
+    "static/media/template0.png": "/SebastianVelo/resume-builder-fe/static/media/template0.58395202.png",
+    "static/media/template1.png": "/SebastianVelo/resume-builder-fe/static/media/template1.f0f9e719.png",
+    "static/media/template2.png": "/SebastianVelo/resume-builder-fe/static/media/template2.1334055d.png",
+    "static/media/template3.png": "/SebastianVelo/resume-builder-fe/static/media/template3.532d1e40.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c26b75f2.js",
+    "static/js/2.a140b96b.chunk.js",
+    "static/css/main.a3a8bc6a.chunk.css",
+    "static/js/main.58c4f37a.chunk.js"
+  ]
+}

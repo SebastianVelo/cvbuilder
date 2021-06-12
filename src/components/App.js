@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import { HashRouter, Switch, Route } from "react-router-dom";
 import "../css/FixedBoostrap.css";
 
-import ScreenInputData from "./screeninputdata/ScreenInputData";
-import ScreenChooseTemplate from "./screenchoosetemplate/ScreenChooseTemplate";
-import ScreenCustomizeResume from "./screencustomizeresume/ScreenCustomizeResume";
+import ScreenInputData from "./sinput/ScreenInputData";
+import ScreenChooseTemplate from "./stemplate/ScreenChooseTemplate";
+import ScreenCustomizeResume from "./scustom/ScreenCustomizeResume";
 
 class App extends Component {
 
