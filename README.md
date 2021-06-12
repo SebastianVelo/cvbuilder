@@ -26,7 +26,7 @@ git clone https://github.com/SebastianVelo/resume-builder-fe.git
 
 Luego de clonar el repositorio
 
-* _En una terminal, tipeamos
+* En una terminal, tipeamos
 ```
 npm run dev
 ```
