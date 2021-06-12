@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SebastianVelo/resume-builder-fe/precache-manifest.7351b2d0f09dbaf02129fb39c1197d28.js"
+  "/SebastianVelo/resume-builder-fe/precache-manifest.7d2cbdd4426ea937dc5912ee0defbe2f.js"
 );
 
 self.addEventListener('message', (event) => {

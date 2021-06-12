@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1ab0da366e1e6d5dd29413129f0b42e",
+    "revision": "025609739360134afacef3c80b48a916",
     "url": "/SebastianVelo/resume-builder-fe/index.html"
   },
   {
-    "revision": "7495b5bb412830b3cd2a",
+    "revision": "b80ee00ffbc7536a4b33",
     "url": "/SebastianVelo/resume-builder-fe/static/css/main.a3a8bc6a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SebastianVelo/resume-builder-fe/static/js/2.a140b96b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7495b5bb412830b3cd2a",
-    "url": "/SebastianVelo/resume-builder-fe/static/js/main.904a69b7.chunk.js"
+    "revision": "b80ee00ffbc7536a4b33",
+    "url": "/SebastianVelo/resume-builder-fe/static/js/main.01e7c0c0.chunk.js"
   },
   {
     "revision": "9597c6ce713c12d8e6e1",
