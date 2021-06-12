@@ -27,7 +27,6 @@ class ScreenCustomizeResume extends Component {
   }
 
   render() {
-    console.log(JSON.stringify(this.state.theme, null, 3));
     return (
       <div id="screen">
         <Header />
